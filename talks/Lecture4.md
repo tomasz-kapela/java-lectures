@@ -1,5 +1,25 @@
+--- 
+title: Java - Interfaces
+author: Tomasz Kapela
+theme: Copenhagen
+date: November 17, 2022
+---
+
+[//]: # (
+Interfaces
+Polymorphism
+Final, sealed method and classes
+Exceptions, Files
+)
+
+
+# Materials
+https://dev.java/learn/interfaces/
 
 # Some class examples
+
+
+
 
 ```java
 public class Circle {
