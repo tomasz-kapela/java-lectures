@@ -19,7 +19,7 @@ What will happen when we try to compile and execute this program?
 Experiment
 
 The code will compile but during runtime we get the following:
-\begin{lstlisting}
+```java
 Exception in thread "main" java.lang.NullPointerException
 at pl.edu.wsb_nlu.java.lecture4.exceptions.Experiment.main(Experiment.java:6)
 ```

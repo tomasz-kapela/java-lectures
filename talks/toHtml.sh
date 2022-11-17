@@ -1,9 +1,9 @@
 #!/bin/bash
 
-NAME=Lecture3
+NAME=Lecture4
 INFILE=${NAME}.md
-OUTFILE=html/${NAME}.html
-OUTFILE2=html/${NAME}-all.html
+OUTFILE=../html/${NAME}.html
+OUTFILE2=../html/${NAME}-all.html
 
 # Creating slides
 pandoc -t slidy --self-contained --toc --toc-depth=1 ${INFILE} -o ${OUTFILE}
